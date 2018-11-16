@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/NearFit/nearfit.github.io/master/_includes/1.jpg
+
+https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png
 CENTRAL INDIA’S BIGGEST ZUMBA MASTERCLASS
 ZUMBA Community Chhattisgarh in association with Nearfit had organised biggest ever Zumba masterclass party of Central India on November 11 at Hyatt Raipur with the novel idea of spreading awareness about Zumba in Raipur and Chhattisgarh region. 
 Let’s understand Zumba
