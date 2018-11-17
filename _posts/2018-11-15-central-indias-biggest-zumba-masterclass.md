@@ -22,30 +22,19 @@ Pic credits: NEARFIT
 
 For this particular event, there were more than ten Zumba instructors from all over Chhattisgarh and Orissa, who worked hard to make this event happen. They were ZIN Shuchita, ZIN Vivek, ZIN Neha, ZIN Nikita, ZIN Harsh, ZIN Nutan, ZIN Amit, ZIN Gargy, ZIN Prashant, ZIN Amit, ZIN Rajshree, ZIN Geeta, ZIN Akash, etc. Right from setting up an amazing choreography, to making the audience groove to their moves, Zumba is for sure going to be a huge hit in this state.
 
-<<<<<<< HEAD
-{IMAGE 5} Pic credits: NEARFIT
-=======
 ![Zumba master class](https://raw.githubusercontent.com/NearFit/nearfit.github.io/master/_includes/zumba-master-class-images/5.jpeg "Zumba Masterclass with Sucheta Pal")
 Pic credits: NEARFIT
-
-> > > > > > > a972a9090d4046bc204964272dc3be85c59c5acf
 
 Thanking the sponsors
 Supporting this novel event were AIM fitness – which was the primary sponsor, Storyes Raipur , Reincarnating Raipur, Mor Raipur, Bake and Flake and Hyatt Raipur.
 AIM fitness is a premium fitness club and has one of the best infrastructure in Raipur. Storyes is an apparel brand which keeps a wide array of exciting apparels for their clients. Reincarnating Raipur is one of the most happening lifestyle magazine. Bake and flake is an upcoming bakery company and they sponsored all the gifts that were given to the guests.
 Hyatt Raipur, who were the hospitality partner for the event, supported whole-heartedly to make this event possible. They provided the best hospitality services to the guests and everyone was quite impressed by their efforts. They also got creative and organised a Healthy theme Brunch which started at noon and then followed by the Fun Zumba at evening.
 
-<<<<<<< HEAD
-{IMAGE 6} Pic credits: HYATT
-{IMAGE 7} Pic credits: NEARFIT
-=======
 ![Zumba master class](https://raw.githubusercontent.com/NearFit/nearfit.github.io/master/_includes/zumba-master-class-images/6.jpeg "Zumba Masterclass with Sucheta Pal")
 Pic credits: HYATT
 
 ![Zumba master class](https://raw.githubusercontent.com/NearFit/nearfit.github.io/master/_includes/zumba-master-class-images/7.jpeg "Zumba Masterclass with Sucheta Pal")
 Pic credits: NEARFIT
-
-> > > > > > > a972a9090d4046bc204964272dc3be85c59c5acf
 
 After about Ninety minutes of intense Zumba masterclass, the event was followed by felicitation of all guests. Everyone had an amazing experience and guests left wanting more. We hope such events happen regularly at Chhattisgarh in order to grow the overall community.
 
